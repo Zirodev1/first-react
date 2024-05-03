@@ -1,7 +1,7 @@
 {
   "name": "first-react",
   "version": "0.1.0",
-  "homepage": "https://altcademy.github.io/first-react-app/",
+  "homepage": "https://zirodev1.github.io/first-react/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
